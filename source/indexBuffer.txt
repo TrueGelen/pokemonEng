@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<div lang="en">
+
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<link rel="stylesheet" href="css/main.css">
+		<title>Template</title>
+	</head>
+
+	<body>
+		<aside class="asideColumn">
+			<p>Ента типа та кАлонка да?</p>
+		</aside>
+		<div class="pageWrap">
+			<div class="uniqueizer11221">
+
+			</div>
+		</div>
+		<script src="js/build.js"></script>
+	</body>
+
+	</html>
