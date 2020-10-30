@@ -1383,7 +1383,9 @@ body, div, h1, h2, h3, h4, p, input {
 		@include lg-block{
 			justify-content: space-around;
 			flex-wrap: wrap;
-		}
+    }
+    
+    @include xs(padding-bottom, 30vw);
 
 		&__mate{
 			position: relative;
